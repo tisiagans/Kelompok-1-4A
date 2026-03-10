@@ -61,7 +61,7 @@ Pada akhirnya, Harari menjelaskan bahwa pola hubungan antara sains dan agama tid
 
 **2. Akar Historis Pada Pembabakan Yunani, Romawi, Abad Kegelapan, Kebangkitan dan Modern**
 
-**1).	Abad Yunani**
+**1). Pada Masa Yunani**
 
 Pada masa Yunani kuno, cara manusia memahami dunia masih sangat dipengaruhi oleh kepercayaan religius dan mitologi. Banyak peristiwa alam yang belum dapat dijelaskan secara rasional, sehingga masyarakat sering mengaitkannya dengan kekuatan para dewa atau makhluk gaib. Salah satu contohnya terlihat pada cara masyarakat memahami penyakit dan wabah yang melanda manusia.
 
@@ -75,7 +75,7 @@ Kepercayaan semacam ini menunjukkan bahwa pada masa Yunani kuno, penjelasan tent
 
 Dari kondisi tersebut dapat dilihat bahwa akar konflik antara sains dan agama pada masa awal sebenarnya muncul dari perbedaan cara menjelaskan realitas. Agama dan mitologi memberikan penjelasan yang bersifat spiritual dan simbolik, sedangkan pendekatan ilmiah yang baru berkembang kemudian berusaha mencari sebab yang dapat dibuktikan melalui pengamatan dan penalaran. Perbedaan cara pandang inilah yang kemudian menjadi salah satu dasar munculnya ketegangan antara penjelasan religius dan penjelasan ilmiah dalam sejarah perkembangan pengetahuan manusia.
 
-**2).	Abad Romawi**
+**2).	Pada Masa Romawi**
 
 Menurut cerita yang beredar pada masa itu, Kaisar Romawi Konstantin memberikan kekuasaan besar kepada gereja melalui sebuah dekrit resmi. Hal ini terlihat dari penjelasan bahwa “pada 30 Maret 315, Kaisar Romawi Konstantin menandatangani dekrit resmi yang memberi Paus Sylvester I dan para penerusnya kekuasaan abadi atas bagian barat Imperium Romawi.”
 
@@ -94,7 +94,7 @@ Pada masa itu masyarakat tidak memiliki pengetahuan atau teknologi yang cukup un
 Keadaan mulai berubah ketika sains modern berkembang dan mampu menjelaskan berbagai rahasia tentang penyakit serta cara mengatasinya. Hal ini terlihat dari penjelasan bahwa “begitu sains modern menggambarkan rahasia epidemi, penyakit, dan antibiotik.”
 Dengan kemajuan ilmu pengetahuan tersebut, manusia dapat mengembangkan sistem peternakan modern yang jauh lebih efisien. Hal ini terlihat dari kemampuan manusia untuk “menempatkan ribuan babi, sapi, atau ayam dalam barisan-barisan rapi kandang-kandang padat.”
 
-**3).	Abad kegelapan**
+**3).	Pada Abad kegelapan**
 
 Pada abad pertengahan di Eropa, agama memiliki pengaruh yang sangat besar dalam kehidupan sosial dan politik masyarakat. Gereja, khususnya Paus, tidak hanya berperan sebagai pemimpin keagamaan tetapi juga memiliki kekuasaan politik yang luas. Ketika terjadi konflik atau perselisihan di berbagai wilayah Eropa, Paus sering mengambil otoritas untuk memutuskan masalah tersebut. Untuk memperkuat kekuasaannya, Gereja menggunakan sebuah dokumen yang dikenal sebagai Donasi Konstantin, yaitu sebuah dekrit yang dipercaya memberikan kekuasaan besar kepada Paus atas wilayah barat Kekaisaran Romawi. 
 
@@ -104,7 +104,7 @@ Namun, seiring berkembangnya metode kajian ilmiah dan kritik terhadap sumber sej
 
 Penemuan ini menjadi contoh penting bagaimana pendekatan ilmiah dapat menguji klaim yang sebelumnya diterima secara luas karena otoritas keagamaan. Meskipun penelitian Valla tidak secara langsung menentang nilai moral agama, hasil kajiannya menunjukkan bahwa klaim historis yang digunakan untuk mendukung kekuasaan Gereja tidak sepenuhnya benar. Dari sini terlihat bahwa konflik antara sains dan agama pada abad pertengahan sering muncul ketika metode ilmiah mulai digunakan untuk memverifikasi fakta sejarah atau klaim yang sebelumnya diterima berdasarkan otoritas keagamaan.
 
-**4).	Abad Kebangkitan**
+**4).	Pada Masa Kebangkitan**
 
 Pada masa pra-modern, manusia percaya bahwa kehidupan mereka memiliki makna karena merupakan bagian dari suatu rencana kosmis yang lebih besar. Keyakinan ini muncul dari pandangan bahwa “sebagai imbalan atas penyerahan kekuasaan, manusia-manusia pra-modern meyakini bahwa hidup mereka mendapatkan makna.” Dengan keyakinan tersebut, manusia merasa bahwa kehidupan mereka memiliki tujuan yang jelas dalam tatanan dunia.
 Dalam kehidupan sehari-hari, setiap tindakan manusia dianggap memiliki arti tertentu dalam rencana besar tersebut. Bahkan tindakan sederhana seperti perang, menaati raja, atau menjalankan aturan moral diyakini sebagai bagian dari skenario kosmis, sebagaimana digambarkan bahwa “benar-benar ada artinya apakah mereka berperang dengan gagah berani di medan tempur, apakah mereka mendukung raja yang sah, apakah mereka memakan makanan yang dilarang untuk sarapan.”
@@ -134,7 +134,7 @@ Kesadaran bahwa manusia masih mengetahui sangat sedikit tentang dunia mendorong 
 
 Dengan demikian, Revolusi Saintifik membuka jalan bagi kemajuan ilmu pengetahuan dan teknologi yang terus berkembang hingga masa modern. Proses ini kemudian membawa perubahan besar dalam kehidupan manusia dan cara manusia memahami dunia di sekitarnya.
 
-**5).	Abad Modern**
+**5).	Pada Era Modern**
 
 Pada abad modern mulai terlihat perubahan besar dalam cara manusia memandang perang. Dalam sejarah panjang umat manusia, perang dianggap sebagai sesuatu yang wajar dalam kehidupan. Hal ini terlihat dari kenyataan bahwa “sepanjang sejarah, sebagian besar manusia memandang perang sebagai hal lumrah, sedangkan perdamaian adalah keadaan sementara dan tidak pasti.”
 
