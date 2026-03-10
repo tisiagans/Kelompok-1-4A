@@ -8,11 +8,13 @@ Perjalanan panjang peradaban manusia selalu diwarnai oleh tarik-ulur yang menari
 Salah satu sudut pandang modern yang paling memicu diskusi mengenai fenomena ini adalah pemikiran Yuval Noah Harari dalam bukunya, Homo Deus. Harari menyoroti sebuah pergeseran radikal di mana manusia, berbekal kekuatan sains, mulai mengambil alih peran-peran yang dulunya dianggap sebagai wilayah sakral milik Tuhan. Ia berargumen bahwa dalam ambisi mengejar keabadian dan kebahagiaan absolut melalui teknologi, manusia seolah-olah sedang dalam proses "mendewakan" dirinya sendiri. Di titik inilah, batas antara otoritas agama yang bersifat spiritual dan pencapaian ilmiah yang didominasi oleh logika teknis murni menjadi semakin tipis, memaksa kita untuk bertanya kembali: sejauh mana sains dapat melangkah tanpa kehilangan landasan etika yang selama ini dijaga oleh agama?
 
 Menganalisis dinamika ini menjadi sangat penting di tengah pesatnya perkembangan teknologi hari ini. Perdebatan antara sains dan agama kini bukan lagi sekadar soal teori penciptaan, melainkan tentang bagaimana masa depan kemanusiaan akan dibentuk di tangan bioteknologi dan kecerdasan buatan. Makalah ini berupaya menelusuri jejak sejarah interaksi tersebut, sembari membedah visi masa depan yang ditawarkan dalam Homo Deus. Tujuannya adalah untuk memahami apakah sains dan agama ditakdirkan untuk terus berbenturan, atau justru dapat menemukan titik temu baru dalam menjaga keberlangsungan martabat manusia di era yang serba digital ini.
+
 **2. Rumusan Masalah**
 ##### 1. Bagaimana pola hubungan antara sains dan agama 
 ##### 2. Jelaskan menggunakan data historis yang terverifikasi akar konfliknya pada pembabakan yunani, romawi, abad kegelapan, kebangkitan dan modern
 ##### 3. Jelaskan perbedaan metodologis dari konflik antara sains dan agama
 ##### 4. Berikan analisa mendalam dari konflik tersebut
+
 **3. Tujuan**
 ##### 1. Untuk mengetahui dan memahami pola hubungan antara sains & agama
 ##### 2. Untuk mengkaji akar konflik antara sains & agama berdasarkan data historis yang terverivikasi
