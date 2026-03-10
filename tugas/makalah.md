@@ -11,7 +11,7 @@
 ##### 1. Bagaimana pola hubungan antara sains dan agama 
 ##### 2. Jelaskan menggunakan data historis yang terverifikasi akar konfliknya pada pembabakan yunani, romawi, abad kegelapan, kebangkitan dan modern
 ##### 3. Jelaskan perbedaan metodologis dari konflik antara sains dan agama
-##### 4. berikan analisa mendalam dari konflik tersebut
+##### 4. Berikan analisa mendalam dari konflik tersebut
 **3. Tujuan**
 ##### Pak al ganteng
 ## BAB 2 Pembahasan
