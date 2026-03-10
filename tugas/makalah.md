@@ -8,7 +8,10 @@
 
 ##### Menganalisis dinamika ini menjadi sangat penting di tengah pesatnya perkembangan teknologi hari ini. Perdebatan antara sains dan agama kini bukan lagi sekadar soal teori penciptaan, melainkan tentang bagaimana masa depan kemanusiaan akan dibentuk di tangan bioteknologi dan kecerdasan buatan. Makalah ini berupaya menelusuri jejak sejarah interaksi tersebut, sembari membedah visi masa depan yang ditawarkan dalam Homo Deus. Tujuannya adalah untuk memahami apakah sains dan agama ditakdirkan untuk terus berbenturan, atau justru dapat menemukan titik temu baru dalam menjaga keberlangsungan martabat manusia di era yang serba digital ini.
 **2. Rumusan Masalah**
-##### Pak al ganteng
+##### 1. Bagaimana pola hubungan antara sains dan agama 
+##### 2. Jelaskan menggunakan data historis yang terverifikasi akar konfliknya pada pembabakan yunani, romawi, abad kegelapan, kebangkitan dan modern
+##### 3. Jelaskan perbedaan metodologis dari konflik antara sains dan agama
+##### 4. berikan analisa mendalam dari konflik tersebut
 **3. Tujuan**
 ##### Pak al ganteng
 ## BAB 2 Pembahasan
