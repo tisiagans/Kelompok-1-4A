@@ -2,7 +2,7 @@
 #### ANALISIS BERDASARKAN BUKU HOMO DEUS "MASA DEPAN UMAT MANUSIA" - YUVAL NOAH HARARI
 ## BAB 1 Pendahuluan
 **1. Latar Belakang**
-##### Pak al ganteng 
+##### Salah satu sudut pandang modern yang paling memicu diskusi mengenai fenomena ini adalah pemikiran Yuval Noah Harari dalam bukunya, Homo Deus. Harari menyoroti sebuah pergeseran radikal di mana manusia, berbekal kekuatan sains, mulai mengambil alih peran-peran yang dulunya dianggap sebagai wilayah sakral milik Tuhan. Ia berargumen bahwa dalam ambisi mengejar keabadian dan kebahagiaan absolut melalui teknologi, manusia seolah-olah sedang dalam proses "mendewakan" dirinya sendiri. Di titik inilah, batas antara otoritas agama yang bersifat spiritual dan pencapaian ilmiah yang didominasi oleh logika teknis murni menjadi semakin tipis, memaksa kita untuk bertanya kembali: sejauh mana sains dapat melangkah tanpa kehilangan landasan etika yang selama ini dijaga oleh agama?
 **2. Rumusan Masalah**
 ##### Pak al ganteng
 **3. Tujuan**
