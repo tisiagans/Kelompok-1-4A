@@ -62,7 +62,38 @@ Pada akhirnya, Harari menjelaskan bahwa pola hubungan antara sains dan agama tid
 **2. Akar Historis Pada Pembabakan Yunani, Romawi, Abad Kegelapan, Kebangkitan dan Modern**
 ##### Pak al ganteng
 **3. Perbedaan Metodologis Antara Sains dan Agama**
-##### Pak al ganteng
+
+Dalam buku Homo Deus: Masa Depan Umat Manusia, hubungan antara sains dan agama sering dipahami melalui dua pandangan ekstrem. Pandangan pertama menyatakan bahwa sains dan agama adalah dua kekuatan yang saling bermusuhan. Menurut pandangan ini, sejarah modern merupakan hasil dari pertarungan antara pengetahuan ilmiah dan kepercayaan religius. Seiring berkembangnya sains, dianggap bahwa pengaruh agama akan semakin melemah karena masyarakat menjadi lebih rasional dan sekuler. Hal ini sejalan dengan penjelasan dalam sumber yang menyatakan bahwa **“ada dua interpretasi ekstrem untuk hubungan ini. Satu pandangan menjelaskan bahwa sains dan agama adalah musuh bebuyutan, dan bahwa sejarah modern dibentuk oleh pertarungan hidup mati antara pengetahuan saintifik dan takhayul keagamaan.”**
+
+Namun, pandangan ini tidak sepenuhnya tepat. Walaupun beberapa temuan ilmiah dapat menantang atau melemahkan dogma agama tertentu, hal tersebut tidak berarti bahwa sains selalu bertentangan dengan agama. Dalam banyak hal, sains justru membutuhkan agama atau sistem nilai untuk membantu manusia menentukan bagaimana pengetahuan tersebut digunakan dalam kehidupan sosial, sebagaimana dijelaskan bahwa **“sains selalu membutuhkan bantuan agama dalam rangka menciptakan institusi-institusi kemanusiaan yang tangguh.”**
+
+
+Perbedaan mendasar antara sains dan agama terletak pada metode dan ruang lingkupnya. Yu Sains berfokus pada fakta dan berusaha memahami bagaimana dunia bekerja melalui pengamatan, eksperimen, dan analisis rasional. Sebaliknya, agama lebih banyak membahas nilai-nilai, pedoman moral, dan cara manusia seharusnya bertindak, karena **“para ilmuwan mempelajari bagaimana dunia berfungsi, tetapi tidak ada metode saintifik untuk memastikan bagaimana manusia harus berperilaku.”**
+
+Sebagai contoh yang dipaparkan dalam buku Homo Deus, sains dapat menjelaskan bahwa manusia membutuhkan oksigen untuk hidup. Namun, sains tidak dapat menjawab pertanyaan moral seperti apakah suatu tindakan tertentu boleh dilakukan atau tidak. Dalam hal-hal yang berkaitan dengan etika dan nilai, agama atau sistem kepercayaan lain sering menjadi pedoman bagi masyarakat, sebagaimana dijelaskan bahwa **“sains memberitahu kita bahwa manusia tidak bisa bertahan hidup tanpa oksigen. Namun, apakah boleh mengeksekusi penjahat dengan pembekapan napas? Sains tidak tahu bagaimana menjawab pertanyaan semacam itu.”**
+
+Dalam praktiknya, hampir semua ajaran agama biasanya terdiri dari tiga unsur utama. Pertama, ketetapan etis, yaitu nilai moral yang diyakini benar. Kedua, pernyataan faktual, yaitu klaim tentang kenyataan. Ketiga, pedoman praktis, yaitu aturan perilaku yang muncul dari penggabungan nilai moral dan klaim faktual tersebut, sebagaimana dijelaskan bahwa **“cerita-cerita agama hampir selalu mencakup tiga bagian: ketetapan etis, pernyataan-pernyataan faktual, dan penggabungan keduanya yang menghasilkan pedoman praktis.”**
+
+Di sinilah sering muncul konflik metodologis antara sains dan agama. Yuval juga menjelaskan, sains tidak dapat membuktikan atau menolak nilai moral yang dianut suatu agama, tetapi sains dapat meneliti dan menguji klaim faktual yang menjadi dasar ajaran tersebut. Oleh karena itu, para ilmuwan memiliki peran penting dalam menilai aspek faktual dari ajaran keagamaan karena **“ilmuwan memiliki banyak hal yang bisa dikemukakan tentang pernyataan-pernyataan faktual agama.”**
+
+Contoh historis pada buku Homo Deus yang menarik dapat dilihat pada kasus Donasi Konstantin di Eropa abad pertengahan. Dokumen ini menyatakan bahwa Kaisar Konstantin memberikan kekuasaan politik kepada Paus atas wilayah Barat Kekaisaran Romawi. Selama berabad-abad dokumen ini digunakan untuk memperkuat otoritas politik kepausan, sebagaimana dijelaskan bahwa **“pada 30 Maret 315, Kaisar Romawi Konstantin menandatangani dekrit resmi yang memberi Paus Sylvester I dan para penerusnya kekuasaan abadi atas bagian barat Imperium Romawi.”**
+
+Namun pada tahun 1441 seorang sarjana bernama Lorenzo Valla melakukan analisis linguistik terhadap dokumen tersebut dan membuktikan bahwa dokumen itu merupakan pemalsuan. Penemuan ini menunjukkan bagaimana metode ilmiah dapat digunakan untuk menguji klaim faktual yang sebelumnya dianggap benar dalam konteks keagamaan, karena **“Lorenzo Valla menerbitkan sebuah studi ilmiah yang membuktikan bahwa Donasi Konstantin adalah sebuah pemalsuan.”**
+
+Contoh lain yang ada dalam buku Homo Deus ini juga dapat dilihat dalam perdebatan mengenai larangan homoseksualitas yang didasarkan pada teks keagamaan. Sebagian kelompok religius berpendapat bahwa larangan tersebut berasal dari perintah Tuhan yang tercantum dalam kitab suci dan menjadi dasar aturan moral dalam masyarakat.
+
+Namun para ilmuwan kemudian meneliti asal-usul dan proses penyusunan kitab suci tersebut secara historis dan filologis. Penelitian ini menunjukkan bahwa teks-teks tersebut merupakan hasil proses sejarah yang panjang karena **“sebagian besar studi saintifik yang ditinjau silang sepakat bahwa Bibel adalah kumpulan banyak teks berbeda yang disusun oleh pengarang manusia beberapa abad setelah peristiwa yang mereka tulis.”**
+
+Temuan tersebut tidak serta-merta menolak nilai moral agama, tetapi menunjukkan bahwa klaim faktual tentang asal-usul teks dapat dianalisis secara ilmiah melalui metode penelitian sejarah dan filologi.
+
+Meskipun demikian, Yuval menyatakan bahwa, memisahkan nilai moral dan klaim faktual tidak selalu mudah. Dalam banyak kasus, agama sering menggabungkan keduanya sehingga sulit dibedakan mana yang merupakan nilai etis dan mana yang merupakan pernyataan faktual, sebagaimana dijelaskan bahwa **“tidak selalu mudah untuk memisahkan ketetapan etis dari pernyataan faktual.”**
+
+Akibatnya, perdebatan yang seharusnya dapat diselesaikan melalui penelitian ilmiah sering berubah menjadi perdebatan moral atau teologis yang lebih kompleks dan sulit diselesaikan. Pada akhirnya, sains dan agama memiliki peran yang berbeda tetapi saling memengaruhi dalam kehidupan manusia. Sains terutama berfokus pada pencarian pengetahuan dan kemampuan untuk memahami serta mengendalikan alam.
+
+Sementara itu, agama lebih menekankan pada penciptaan keteraturan sosial dan pemberian makna serta nilai bagi kehidupan manusia, karena **“agama berkepentingan paling tinggi pada keteraturan sementara sains berkepentingan paling tinggi pada kekuatan.”**
+
+Oleh karena itu Yuval menjelaskan, daripada selalu melihat keduanya sebagai musuh, lebih tepat jika hubungan antara sains dan agama dipahami sebagai interaksi yang kompleks. Dalam beberapa situasi keduanya dapat bertentangan, tetapi dalam situasi lain keduanya juga dapat saling melengkapi dalam membentuk kehidupan manusia dan masyarakat
+
 **4. Analisis Konflik Antara Sains dan Agama**
 ##### Pak al ganteng
 ## BAB 3 Penutup
