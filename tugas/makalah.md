@@ -13,7 +13,11 @@
 ##### 3. Jelaskan perbedaan metodologis dari konflik antara sains dan agama
 ##### 4. Berikan analisa mendalam dari konflik tersebut
 **3. Tujuan**
-##### Pak al ganteng
+##### 1. Untuk mengetahui dan memahami pola hubungan antara sains & agama
+##### 2. Untuk mengkaji akar konflik antara sains & agama berdasarkan data historis yang terverivikasi
+##### 3. Untuk menganalisis perbedaan metodologis antara sains & agama
+##### 4. Untuk melakukan analisis mendalam terhadap konflik antara sains & agama 
+
 ## BAB 2 Pembahasan
 **1. Hubungan Antara Sains dan Agama**
 ##### Pak al ganteng
