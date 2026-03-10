@@ -62,6 +62,7 @@ Pada akhirnya, Harari menjelaskan bahwa pola hubungan antara sains dan agama tid
 **2. Akar Historis Pada Pembabakan Yunani, Romawi, Abad Kegelapan, Kebangkitan dan Modern**
 
 **1).	Abad Yunani**
+
 Pada masa Yunani kuno, cara manusia memahami dunia masih sangat dipengaruhi oleh kepercayaan religius dan mitologi. Banyak peristiwa alam yang belum dapat dijelaskan secara rasional, sehingga masyarakat sering mengaitkannya dengan kekuatan para dewa atau makhluk gaib. Salah satu contohnya terlihat pada cara masyarakat memahami penyakit dan wabah yang melanda manusia.
 
 Pada masa itu, kota-kota yang ramai seperti pusat perdagangan dan tempat berkumpulnya para pedagang, pejabat, serta peziarah memang menjadi pusat perkembangan peradaban. Namun di sisi lain, kondisi tersebut juga membuat penyebaran penyakit menjadi sangat mudah terjadi. Wabah dapat muncul secara tiba-tiba dan menyebar dengan cepat, bahkan mampu menghancurkan satu keluarga atau komunitas dalam waktu singkat. Hal ini sejalan dengan penjelasan Yuval Noah Harari dalam bukunya bahwa “kota-kota sibuk yang dihubungkan oleh arus tiada putus pedagang, pejabat, dan peziarah menjadi alas tumpuan peradaban manusia sekaligus menjadi lahan tumbuh ideal patogen.” Harari juga menjelaskan bahwa pada masa lalu manusia hidup dengan kesadaran bahwa wabah dapat muncul kapan saja, sehingga “orang menjalani kehidupan seperti di Athena kuno atau Florensia abad pertengahan karena tahu bahwa mereka mungkin jatuh sakit dan mati pekan berikutnya, atau bahwa epidemi mungkin tiba-tiba meletus dan menghancurkan seluruh keluarga dalam sekali sambar.”
@@ -74,6 +75,7 @@ Kepercayaan semacam ini menunjukkan bahwa pada masa Yunani kuno, penjelasan tent
 
 Dari kondisi tersebut dapat dilihat bahwa akar konflik antara sains dan agama pada masa awal sebenarnya muncul dari perbedaan cara menjelaskan realitas. Agama dan mitologi memberikan penjelasan yang bersifat spiritual dan simbolik, sedangkan pendekatan ilmiah yang baru berkembang kemudian berusaha mencari sebab yang dapat dibuktikan melalui pengamatan dan penalaran. Perbedaan cara pandang inilah yang kemudian menjadi salah satu dasar munculnya ketegangan antara penjelasan religius dan penjelasan ilmiah dalam sejarah perkembangan pengetahuan manusia.
 **2).	Abad Romawi**
+
 Menurut cerita yang beredar pada masa itu, Kaisar Romawi Konstantin memberikan kekuasaan besar kepada gereja melalui sebuah dekrit resmi. Hal ini terlihat dari penjelasan bahwa “pada 30 Maret 315, Kaisar Romawi Konstantin menandatangani dekrit resmi yang memberi Paus Sylvester I dan para penerusnya kekuasaan abadi atas bagian barat Imperium Romawi.”
 
 Dokumen tersebut kemudian disimpan oleh gereja dan digunakan untuk memperkuat legitimasi kekuasaan paus. Dalam teks dijelaskan bahwa “para paus memelihara dokumen berharga ini dalam arsip dan menggunakannya sebagai alat propaganda yang kuat.”
@@ -92,6 +94,7 @@ Keadaan mulai berubah ketika sains modern berkembang dan mampu menjelaskan berba
 Dengan kemajuan ilmu pengetahuan tersebut, manusia dapat mengembangkan sistem peternakan modern yang jauh lebih efisien. Hal ini terlihat dari kemampuan manusia untuk “menempatkan ribuan babi, sapi, atau ayam dalam barisan-barisan rapi kandang-kandang padat.”
 
 **3).	Abad kegelapan**
+
 Pada abad pertengahan di Eropa, agama memiliki pengaruh yang sangat besar dalam kehidupan sosial dan politik masyarakat. Gereja, khususnya Paus, tidak hanya berperan sebagai pemimpin keagamaan tetapi juga memiliki kekuasaan politik yang luas. Ketika terjadi konflik atau perselisihan di berbagai wilayah Eropa, Paus sering mengambil otoritas untuk memutuskan masalah tersebut. Untuk memperkuat kekuasaannya, Gereja menggunakan sebuah dokumen yang dikenal sebagai Donasi Konstantin, yaitu sebuah dekrit yang dipercaya memberikan kekuasaan besar kepada Paus atas wilayah barat Kekaisaran Romawi. 
 
 Menurut cerita yang beredar saat itu, pada 30 Maret 315 Kaisar Romawi Konstantin memberikan kekuasaan tersebut kepada Paus Sylvester I dan para penerusnya. Dokumen ini kemudian disimpan oleh pihak kepausan dan sering digunakan sebagai dasar legitimasi kekuasaan Gereja. Masyarakat Eropa abad pertengahan sangat menghormati dokumen-dokumen kuno dan percaya bahwa semakin tua suatu dokumen, semakin besar pula otoritasnya. Selain itu, mereka juga meyakini bahwa raja dan kaisar adalah wakil Tuhan di dunia. Karena itulah banyak orang menerima klaim kekuasaan Gereja tanpa mempertanyakannya. 
@@ -101,6 +104,7 @@ Namun, seiring berkembangnya metode kajian ilmiah dan kritik terhadap sumber sej
 Penemuan ini menjadi contoh penting bagaimana pendekatan ilmiah dapat menguji klaim yang sebelumnya diterima secara luas karena otoritas keagamaan. Meskipun penelitian Valla tidak secara langsung menentang nilai moral agama, hasil kajiannya menunjukkan bahwa klaim historis yang digunakan untuk mendukung kekuasaan Gereja tidak sepenuhnya benar. Dari sini terlihat bahwa konflik antara sains dan agama pada abad pertengahan sering muncul ketika metode ilmiah mulai digunakan untuk memverifikasi fakta sejarah atau klaim yang sebelumnya diterima berdasarkan otoritas keagamaan.
 
 **4).	Abad Kebangkitan**
+
 Pada masa pra-modern, manusia percaya bahwa kehidupan mereka memiliki makna karena merupakan bagian dari suatu rencana kosmis yang lebih besar. Keyakinan ini muncul dari pandangan bahwa “sebagai imbalan atas penyerahan kekuasaan, manusia-manusia pra-modern meyakini bahwa hidup mereka mendapatkan makna.” Dengan keyakinan tersebut, manusia merasa bahwa kehidupan mereka memiliki tujuan yang jelas dalam tatanan dunia.
 Dalam kehidupan sehari-hari, setiap tindakan manusia dianggap memiliki arti tertentu dalam rencana besar tersebut. Bahkan tindakan sederhana seperti perang, menaati raja, atau menjalankan aturan moral diyakini sebagai bagian dari skenario kosmis, sebagaimana digambarkan bahwa “benar-benar ada artinya apakah mereka berperang dengan gagah berani di medan tempur, apakah mereka mendukung raja yang sah, apakah mereka memakan makanan yang dilarang untuk sarapan.”
 
@@ -130,20 +134,35 @@ Kesadaran bahwa manusia masih mengetahui sangat sedikit tentang dunia mendorong 
 Dengan demikian, Revolusi Saintifik membuka jalan bagi kemajuan ilmu pengetahuan dan teknologi yang terus berkembang hingga masa modern. Proses ini kemudian membawa perubahan besar dalam kehidupan manusia dan cara manusia memahami dunia di sekitarnya.
 
 **5).	Abad Modern**
+
 Pada abad modern mulai terlihat perubahan besar dalam cara manusia memandang perang. Dalam sejarah panjang umat manusia, perang dianggap sebagai sesuatu yang wajar dalam kehidupan. Hal ini terlihat dari kenyataan bahwa “sepanjang sejarah, sebagian besar manusia memandang perang sebagai hal lumrah, sedangkan perdamaian adalah keadaan sementara dan tidak pasti.”
+
 Pandangan tersebut juga memengaruhi cara negara-negara berhubungan satu sama lain. Hubungan internasional pada masa lalu lebih ditentukan oleh kekuatan daripada kerja sama, karena “hubungan internasional diatur dengan Hukum Rimba, yang menurut ketentuannya, sekalipun dua pemerintahan hidup berdamai, perang selalu tetap menjadi opsi.”
+
 Karena itu, masyarakat pada masa lalu selalu hidup dengan kemungkinan perang. Bahkan ketika dua negara sedang damai, konflik tetap dianggap mungkin terjadi kapan saja, sebagaimana digambarkan dalam contoh bahwa “sekalipun Jerman dan Prancis berdamai pada tahun 1913, setiap orang tahu bahwa mereka bisa berkelahi pada 1914.”
+
 Akibatnya, berbagai rencana masa depan pada masa itu selalu mempertimbangkan kemungkinan konflik. Hal ini terlihat ketika disebutkan bahwa “setiap kali para politisi, jenderal, pebisnis, dan warga negara biasa membuat rencana untuk masa depan, mereka selalu menyisakan ruang untuk perang.”
-Situasi ini berlangsung sangat lama dalam sejarah manusia. Sejak zaman prasejarah hingga era industri, masyarakat hidup dengan kesadaran bahwa wilayah mereka bisa diserang kapan saja, sebagaimana dijelaskan bahwa “dari Zaman Batu sampai abad mesin uap… setiap orang di muka Bumi tahu bahwa sewaktu-waktu tetangga bisa menginvasi teritori.”
+
+Situasi ini berlangsung sangat lama dalam sejarah manusia. Sejak zaman prasejarah hingga era industri, masyarakat hidup dengan kesadaran bahwa wilayah mereka bisa diserang kapan saja, sebagaimana dijelaskan bahwa “dari Zaman Batu sampai abad mesin uap, setiap orang di muka Bumi tahu bahwa sewaktu-waktu tetangga bisa menginvasi teritori.”
+
 Namun, kondisi tersebut mulai berubah pada paruh kedua abad ke-20. Dalam banyak wilayah dunia, perang tidak lagi terjadi sesering sebelumnya sehingga “dalam paruh kedua abad ke-20, Hukum Rimba ini akhirnya dilanggar—kalau bukan dihapuskan.”
+
 Perubahan ini terlihat jelas dari data historis mengenai tingkat kekerasan. Dalam masyarakat agraris kuno, kekerasan menyebabkan sekitar 15 persen kematian manusia, tetapi kemudian menurun drastis karena “dalam abad ke-20 kekerasan menyebabkan hanya 5 persen kematian, dan pada awal abad ke-21 berkontribusi hanya 1 persen dari angka kematian global.”
+
 Bahkan dalam perbandingan modern, kematian akibat penyakit atau faktor lain bisa lebih besar daripada akibat perang. Hal ini digambarkan secara jelas ketika disebutkan bahwa “pada 2012, sekitar 56 juta orang mati di seluruh dunia, 600.000 di antaranya akibat kekerasan manusia.”
+
 Salah satu penyebab penting perubahan ini adalah munculnya senjata nuklir. Kehadiran senjata tersebut membuat perang besar menjadi sangat berbahaya sehingga “senjata nuklir telah mengubah perang antarnegara adikuasa menjadi aksi gila bunuh diri bersama.”
+
 Karena ancaman tersebut, banyak negara besar mulai mencari cara lain untuk menyelesaikan konflik. Dalam teks dijelaskan bahwa situasi ini “memaksa sebagian besar negara yang paling kuat di muka Bumi untuk mencari cara-cara alternatif yang damai dalam menyelesaikan konflik.”
+
 Selain faktor militer, perubahan besar juga terjadi dalam sistem ekonomi global. Ekonomi dunia mulai bergeser dari ketergantungan pada sumber daya alam menuju pengetahuan, karena “sebelumnya, sumber utama kekayaan adalah aset material seperti tambang emas, ladang gandum, dan sumur-sumur minyak.”
+
 Pada masa modern, kekayaan semakin banyak berasal dari pengetahuan dan inovasi. Oleh karena itu disebutkan bahwa “kini, sumber utama kekayaan adalah pengetahuan.”
+
 Perubahan ini juga memengaruhi keuntungan dari perang. Jika dahulu sumber daya bisa direbut dengan kekuatan militer, kini hal tersebut tidak selalu berlaku karena “walaupun Anda bisa menaklukkan ladang-ladang minyak melalui perang, Anda tidak bisa merebut pengetahuan dengan cara seperti itu.”
+
 Contoh konflik yang masih berkaitan dengan sumber daya material dapat dilihat di Afrika. Dalam teks dijelaskan bahwa “pada 1998, masuk akal bagi Rwanda untuk merebut dan menjarah tambang-tambang coltan yang melimpah di negara tetangganya, Kongo.”
+
 Sebaliknya, dalam ekonomi berbasis teknologi modern, perang justru tidak memberikan keuntungan besar. Hal ini terlihat dari contoh bahwa “sama sekali tidak masuk akal bagi China untuk menginvasi California dan merebut Silicon Valley.”
 Karena perubahan tersebut, makna perdamaian juga ikut berubah. Jika sebelumnya perdamaian hanya berarti tidak ada perang untuk sementara waktu, kini dipandang sebagai kondisi yang rasional karena “generasi-generasi sebelumnya memandang perdamaian sebagai ketiadaan perang sementara, kini kita memandang perdamaian sebagai keniscayaan karena perang memang tidak masuk akal.”
 
