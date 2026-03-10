@@ -57,7 +57,7 @@ Walaupun konflik antara sains dan agama sering dibicarakan, Harari menegaskan ba
 
 Dalam masyarakat modern, hubungan antara sains dan agama bahkan berkembang menjadi kerja sama yang lebih kompleks. Menurut Harari, sains memberikan kekuatan kepada manusia melalui pengetahuan dan teknologi, sedangkan agama memberikan dasar moral bagi penggunaan kekuatan tersebut. Oleh karena itu, keduanya sering kali saling melengkapi dalam membentuk sistem sosial dan peradaban manusia.
 
-Pada akhirnya, Harari menjelaskan bahwa pola hubungan antara sains dan agama tidak dapat dipahami hanya sebagai konflik atau pemisahan saja. Sains dan agama memiliki fungsi yang berbeda dalam kehidupan manusia. Sains membantu manusia memahami dunia secara objektif melalui penelitian dan bukti empiris, sedangkan agama membantu manusia memberikan makna, nilai, dan tujuan dalam kehidupan. Oleh karena itu, dalam banyak aspek kehidupan modern, sains dan agama tidak hanya berhadapan satu sama lain, tetapi juga dapat bekerja sama dalam membentuk perkembangan peradaban manusia
+Pada akhirnya, Harari menjelaskan bahwa pola hubungan antara sains dan agama tidak dapat dipahami hanya sebagai konflik atau pemisahan saja. Sains dan agama memiliki fungsi yang berbeda dalam kehidupan manusia. Sains membantu manusia memahami dunia secara objektif melalui penelitian dan bukti empiris, sedangkan agama membantu manusia memberikan makna, nilai, dan tujuan dalam kehidupan. Oleh karena itu, dalam banyak aspek kehidupan modern, sains dan agama tidak hanya berhadapan satu sama lain, tetapi juga dapat bekerja sama dalam membentuk perkembangan peradaban manusia.
 
 **2. Akar Historis Pada Pembabakan Yunani, Romawi, Abad Kegelapan, Kebangkitan dan Modern**
 ##### Pak al ganteng
