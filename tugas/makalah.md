@@ -195,7 +195,30 @@ Meskipun demikian, Yuval menyatakan bahwa, memisahkan nilai moral dan klaim fakt
 Sementara itu, agama lebih menekankan pada penciptaan keteraturan sosial dan pemberian makna serta nilai bagi kehidupan manusia, karena **“agama berkepentingan paling tinggi pada keteraturan sementara sains berkepentingan paling tinggi pada kekuatan.”** Oleh karena itu Yuval menjelaskan, daripada selalu melihat keduanya sebagai musuh, lebih tepat jika hubungan antara sains dan agama dipahami sebagai interaksi yang kompleks. Dalam beberapa situasi keduanya dapat bertentangan, tetapi dalam situasi lain keduanya juga dapat saling melengkapi dalam membentuk kehidupan manusia dan masyarakat
 
 **4. Analisis Konflik Antara Sains dan Agama**
-##### Pak al ganteng
+
+Konflik antara sains dan agama sering dipahami sebagai pertentangan antara pengetahuan ilmiah dan kepercayaan religius. Sebagian orang beranggapan bahwa keduanya adalah musuh yang selalu bertentangan. Namun pandangan ini tidak sepenuhnya tepat. Dalam banyak kasus, sains dan agama memiliki peran yang berbeda tetapi saling memengaruhi dalam kehidupan manusia.
+
+Perbedaan utama antara sains dan agama terletak pada fokus kajiannya. Sains berusaha memahami bagaimana dunia bekerja melalui pengamatan, eksperimen, dan penalaran rasional. Sementara itu, agama lebih menekankan pada nilai moral, makna kehidupan, dan pedoman perilaku manusia. Konflik biasanya muncul ketika ajaran agama tidak hanya berisi nilai moral, tetapi juga memuat klaim faktual tentang dunia yang dapat diuji oleh sains.
+
+Sejak masa Yunani kuno, manusia sering menjelaskan berbagai peristiwa alam melalui kepercayaan religius. Misalnya ketika wabah penyakit terjadi, masyarakat menganggapnya sebagai kemarahan para dewa atau akibat roh jahat karena mereka belum memahami keberadaan bakteri dan virus. Perbedaan cara menjelaskan fenomena alam ini menjadi salah satu awal munculnya ketegangan antara sains dan agama.
+
+Pada abad pertengahan, agama memiliki pengaruh besar dalam kehidupan politik dan sosial. Contohnya adalah dokumen Donasi Konstantin yang digunakan gereja untuk memperkuat kekuasaan paus. Namun pada tahun 1441, Lorenzo Valla membuktikan melalui analisis bahasa bahwa dokumen tersebut kemungkinan merupakan pemalsuan. Kasus ini menunjukkan bagaimana metode ilmiah dapat menguji klaim faktual yang sebelumnya diterima karena otoritas agama.
+
+Perubahan besar terjadi pada masa Revolusi Saintifik ketika manusia mulai menyadari keterbatasan pengetahuannya dan terdorong untuk mencari penjelasan rasional tentang dunia. Ilmu pengetahuan kemudian berkembang pesat dan mampu menjelaskan berbagai fenomena alam yang sebelumnya dianggap sebagai kehendak ilahi.
+
+Meskipun demikian, sains tidak dapat sepenuhnya menggantikan peran agama. Sains dapat memberikan pengetahuan dan teknologi, tetapi tidak selalu mampu menentukan nilai moral dalam kehidupan manusia. Karena itu, dalam banyak keputusan sosial, manusia tetap memerlukan pertimbangan etika dan nilai.
+
+Dengan demikian, hubungan antara sains dan agama tidak selalu berupa konflik. Keduanya memiliki fungsi yang berbeda. Sains berfokus pada pengetahuan dan kemampuan memahami alam, sedangkan agama memberikan nilai dan makna bagi kehidupan manusia. Dalam banyak hal, keduanya dapat saling berinteraksi dan bahkan saling melengkapi
+
 ## BAB 3 Penutup
-**Kesimpulan**
-##### Pak al ganteng
+##### Kesimpulan
+
+Berdasarkan pembahasan yang telah dijelaskan, dapat disimpulkan bahwa hubungan antara sains dan agama dalam sejarah peradaban manusia tidak selalu berbentuk pertentangan mutlak. Keduanya memiliki peran yang berbeda dalam kehidupan manusia. Sains berfokus pada upaya memahami bagaimana dunia bekerja melalui observasi, penelitian, dan bukti empiris, sedangkan agama lebih menekankan pada nilai moral, makna kehidupan, serta pedoman tentang bagaimana manusia seharusnya bertindak. Perbedaan fungsi inilah yang sering menimbulkan ketegangan, terutama ketika ajaran agama memuat klaim faktual tentang dunia yang kemudian diuji oleh metode ilmiah.
+
+Jika dilihat secara historis, dinamika hubungan antara sains dan agama sudah muncul sejak masa Yunani kuno. Pada masa tersebut, banyak fenomena alam seperti wabah penyakit dijelaskan melalui mitologi dan kepercayaan terhadap dewa. Hal ini terjadi karena manusia belum memiliki pengetahuan ilmiah yang memadai. Seiring berkembangnya pemikiran rasional dan metode ilmiah, cara manusia memahami dunia mulai berubah. Perubahan ini semakin terlihat pada masa Romawi dan abad pertengahan, ketika otoritas agama memiliki pengaruh yang sangat kuat dalam kehidupan sosial dan politik. Namun perkembangan metode kajian ilmiah kemudian mulai menguji berbagai klaim yang sebelumnya diterima tanpa dipertanyakan, seperti yang terlihat pada penelitian Lorenzo Valla terhadap dokumen Donasi Konstantin.
+
+Perubahan besar dalam hubungan antara sains dan agama terjadi pada masa Revolusi Saintifik dan berlanjut hingga era modern. Kesadaran bahwa manusia masih memiliki banyak keterbatasan pengetahuan mendorong berkembangnya penelitian ilmiah secara lebih sistematis. Sains kemudian mampu menjelaskan berbagai fenomena alam yang sebelumnya dianggap sebagai kehendak ilahi, seperti penyakit, bencana alam, dan berbagai proses biologis. Meskipun demikian, perkembangan sains tidak sepenuhnya menghilangkan peran agama dalam kehidupan manusia. Dalam banyak situasi, agama tetap berperan sebagai sumber nilai moral dan pertimbangan etika dalam menggunakan pengetahuan dan teknologi yang dihasilkan oleh sains.
+
+Dari sudut pandang yang dijelaskan dalam buku Homo Deus, hubungan antara sains dan agama sebenarnya lebih kompleks daripada sekadar konflik antara rasionalitas dan kepercayaan. Sains memberikan kekuatan kepada manusia melalui pengetahuan dan teknologi, sedangkan agama atau sistem nilai memberikan arah tentang bagaimana kekuatan tersebut seharusnya digunakan. Oleh karena itu, dalam perkembangan peradaban modern, sains dan agama tidak selalu berada pada posisi yang saling meniadakan. Dalam banyak hal, keduanya justru dapat saling melengkapi dalam membantu manusia memahami dunia sekaligus menentukan nilai dan tujuan hidupnya.
+
+Dengan demikian, dapat dipahami bahwa konflik antara sains dan agama lebih sering muncul karena perbedaan metode dan cara menjelaskan realitas. Namun jika dilihat secara lebih luas, keduanya memiliki kontribusi penting dalam membentuk perkembangan peradaban manusia. Sains membantu manusia memahami dan menguasai alam, sedangkan agama memberikan landasan nilai yang membantu manusia menentukan arah penggunaan pengetahuan tersebut dalam kehidupan sosial.
